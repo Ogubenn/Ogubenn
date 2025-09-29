@@ -47,8 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ogubenn/Ogubenn/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
